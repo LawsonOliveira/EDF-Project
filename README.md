@@ -2,7 +2,7 @@
 
 # Equipe :
     Ana Luiza Haas Bezerra
-    Lawson Oliveira Lima
+    Lawson Oliveira Lima lawsera
     Lucas Pitta
     Klaus Holler
     .
